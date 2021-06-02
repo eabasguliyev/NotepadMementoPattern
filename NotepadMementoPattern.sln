@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotepadMementoPattern", "NotepadMementoPattern\NotepadMementoPattern.csproj", "{0D91ADD1-8543-4B08-B96E-94C72A5E1CCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D91ADD1-8543-4B08-B96E-94C72A5E1CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D91ADD1-8543-4B08-B96E-94C72A5E1CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D91ADD1-8543-4B08-B96E-94C72A5E1CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D91ADD1-8543-4B08-B96E-94C72A5E1CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20E69C5E-F004-4489-BA9D-184CF61B48C0}
+	EndGlobalSection
+EndGlobal
